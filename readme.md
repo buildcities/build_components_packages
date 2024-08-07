@@ -9,7 +9,7 @@ This repository contains the npm packages for the UI components used in the Buil
 ## Features
 
 - A comprehensive library of UI components
-- Easy integration with the BuildCities app
+- Easy integration with the BuildCities app and any other app
 - Well-documented components with usage examples
 - Public Storybook explorer for component documentation and examples
 
